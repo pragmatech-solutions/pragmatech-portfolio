@@ -23,7 +23,7 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
-            Pragmatech designs, develops, tests, and deploys web applications, backend systems,
+            PragmaTech designs, develops, tests, and deploys web applications, backend systems,
             APIs, and AI-powered products — as one accountable team, not a patchwork of
             freelancers.
           </p>

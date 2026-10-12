@@ -5,7 +5,7 @@ import { ContactForm } from "@/components/contact/ContactForm";
 import { siteConfig, buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Contact — Pragmatech",
+  title: "Contact — PragmaTech",
   description:
     "Have a project in mind? Send us the requirements and we'll help define the next steps.",
   path: "/contact",

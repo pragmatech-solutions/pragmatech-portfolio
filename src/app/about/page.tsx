@@ -7,9 +7,9 @@ import { WhyUs } from "@/components/home/WhyUs";
 import { buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "About — Pragmatech",
+  title: "About — PragmaTech",
   description:
-    "Pragmatech is a coordinated software-delivery team combining frontend, backend, and delivery experience across real production engagements.",
+    "PragmaTech is a coordinated software-delivery team combining frontend, backend, and delivery experience across real production engagements.",
   path: "/about",
 });
 
@@ -18,7 +18,7 @@ export default function AboutPage() {
     <>
       <Section className="border-b border-border pb-0">
         <SectionHeading
-          eyebrow="About Pragmatech"
+          eyebrow="About PragmaTech"
           title="A coordinated team, built for full-stack product delivery."
           description="We combine product thinking, frontend engineering, backend architecture, and deployment experience so every engagement is handled end-to-end — not split across disconnected freelancers."
         />

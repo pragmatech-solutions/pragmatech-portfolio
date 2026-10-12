@@ -10,7 +10,7 @@ export function TeamSection() {
       <SectionHeading
         eyebrow="The Team"
         title="A small, coordinated team — not a pool of freelancers."
-        description="Pragmatech combines complementary frontend, backend, and delivery experience so every project has full-stack coverage from day one."
+        description="PragmaTech combines complementary frontend, backend, and delivery experience so every project has full-stack coverage from day one."
       />
 
       <div className="mt-14 grid gap-8 sm:grid-cols-2">

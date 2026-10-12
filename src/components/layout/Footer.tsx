@@ -28,7 +28,7 @@ export function Footer() {
       </Container>
 
       <Container className="flex flex-col gap-2 border-t border-border py-6 text-xs text-muted sm:flex-row sm:items-center sm:justify-between">
-        <p>&copy; {new Date().getFullYear()} Pragmatech. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} PragmaTech. All rights reserved.</p>
         <a href={`mailto:${siteConfig.contactEmail}`} className="focus-ring hover:text-foreground">
           {siteConfig.contactEmail}
         </a>

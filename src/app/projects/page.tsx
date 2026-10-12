@@ -5,7 +5,7 @@ import { getAllProjects, getProjectCategories } from "@/data/projects";
 import { buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Projects — Pragmatech",
+  title: "Projects — PragmaTech",
   description:
     "Backend systems, SaaS platforms, AI integrations, and e-commerce operations we've helped design, build, and deploy.",
   path: "/projects",

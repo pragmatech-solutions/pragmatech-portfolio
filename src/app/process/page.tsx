@@ -7,7 +7,7 @@ import { processSteps } from "@/data/process";
 import { buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Process — Pragmatech",
+  title: "Process — PragmaTech",
   description:
     "Our seven-step development process — from discovery and planning through design, development, testing, deployment, and ongoing support.",
   path: "/process",

@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 
 export const siteConfig = {
-  name: "Pragmatech",
+  name: "PragmaTech",
   tagline: "From product idea to production-ready software.",
   description:
-    "Pragmatech is a full-stack software delivery team designing, building, testing, and deploying web applications, backend systems, APIs, and AI-powered products.",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://pragmatech.example.com",
-  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "burhanahmedsatti@gmail.com",
+    "PragmaTech is a full-stack software delivery team designing, building, testing, and deploying web applications, backend systems, APIs, and AI-powered products.",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://pragmatech-solutions.com",
+  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "admin@pragmatech-solutions.com",
   ogImage: "/og-image.svg",
 };
 

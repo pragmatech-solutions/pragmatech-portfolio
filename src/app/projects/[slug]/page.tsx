@@ -28,13 +28,13 @@ export async function generateMetadata({
   const project = getProjectBySlug(slug);
   if (!project) {
     return buildMetadata({
-      title: "Project Not Found — Pragmatech",
+      title: "Project Not Found — PragmaTech",
       description: "This project could not be found.",
     });
   }
 
   return buildMetadata({
-    title: `${project.title} — Pragmatech`,
+    title: `${project.title} — PragmaTech`,
     description: project.summary,
     path: `/projects/${project.slug}`,
   });

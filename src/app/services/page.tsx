@@ -8,7 +8,7 @@ import { services } from "@/data/services";
 import { buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Services — Pragmatech",
+  title: "Services — PragmaTech",
   description:
     "Full-stack web development, backend and API engineering, AI integrations, database design, and cloud deployment services.",
   path: "/services",

@@ -1,6 +1,6 @@
-# Pragmatech Portfolio
+# PragmaTech Portfolio
 
-A production-ready Next.js portfolio site for Pragmatech — a two-person full-stack delivery team
+A production-ready Next.js portfolio site for PragmaTech — a two-person full-stack delivery team
 (Node.js/MERN and NestJS backend engineering) presenting itself as a complete
 design-develop-test-deploy product team for Upwork clients.
 
@@ -90,7 +90,7 @@ no further changes.
 
 ## Placeholders to Replace Before Launch
 
-- **Domain**: `NEXT_PUBLIC_SITE_URL` defaults to `https://pragmatech.example.com`.
+- **Domain**: `NEXT_PUBLIC_SITE_URL` defaults to `https://pragmatech-solutions.com`.
 - **Social preview image**: `public/og-image.svg` is a placeholder graphic.
 - **Project screenshots**: all project thumbnails/galleries are abstract generated mockups, not
   real product screenshots (see "Adding real project screenshots" above).

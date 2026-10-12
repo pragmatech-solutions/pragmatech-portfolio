@@ -5,7 +5,7 @@ import { skillGroups } from "@/data/skills";
 import { buildMetadata } from "@/lib/metadata";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Expertise — Pragmatech",
+  title: "Expertise — PragmaTech",
   description:
     "A verified technology set spanning frontend, backend, databases, AI integration, cloud infrastructure, and testing.",
   path: "/expertise",
