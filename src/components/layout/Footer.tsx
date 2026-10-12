@@ -9,7 +9,7 @@ export function Footer() {
       <Container className="flex flex-col gap-8 py-12 sm:flex-row sm:items-start sm:justify-between">
         <div className="max-w-sm">
           <p className="text-lg font-bold tracking-tight text-foreground">
-            Pragma<span className="text-accent">tech</span>
+            Pragma<span className="text-accent">Tech</span>
           </p>
           <p className="mt-3 text-sm leading-relaxed text-muted">{siteConfig.description}</p>
         </div>

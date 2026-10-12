@@ -30,7 +30,7 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur">
       <Container className="flex h-16 items-center justify-between">
         <Link href="/" className="focus-ring text-lg font-bold tracking-tight text-foreground">
-          Pragma<span className="text-accent">tech</span>
+          Pragma<span className="text-accent">Tech</span>
         </Link>
 
         <nav className="hidden items-center gap-8 lg:flex" aria-label="Primary">
